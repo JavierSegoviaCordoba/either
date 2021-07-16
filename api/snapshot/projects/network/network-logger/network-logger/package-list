@@ -1,0 +1,7 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.javiersc.either.network.logger////PointingToDeclaration/network-logger/com.javiersc.either.network.logger/index.html
+$dokka.location:com.javiersc.either.network.logger//alsoPrettyPrint/com.javiersc.either.Either[com.javiersc.either.network.Failure[TypeParam(bounds=[kotlin.Any?])],com.javiersc.either.network.Success[TypeParam(bounds=[kotlin.Any?])]]#kotlin.String#kotlinx.serialization.KSerializer[TypeParam(bounds=[kotlin.Any?])]#kotlinx.serialization.KSerializer[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/network-logger/com.javiersc.either.network.logger/also-pretty-print.html
+$dokka.location:com.javiersc.either.network.logger//alsoPrettyPrint/com.javiersc.either.Either[com.javiersc.either.network.Failure[TypeParam(bounds=[kotlin.Any?])],com.javiersc.either.network.Success[TypeParam(bounds=[kotlin.Any?])]]#kotlin.String/PointingToDeclaration/network-logger/com.javiersc.either.network.logger/also-pretty-print.html
+com.javiersc.either.network.logger
+

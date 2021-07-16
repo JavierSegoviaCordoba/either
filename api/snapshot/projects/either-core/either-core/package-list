@@ -1,0 +1,24 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.javiersc.either.extensions////PointingToDeclaration/either-core/com.javiersc.either.extensions/index.html
+$dokka.location:com.javiersc.either.extensions//asLeft/TypeParam(bounds=[kotlin.Any?])#/PointingToDeclaration/either-core/com.javiersc.either.extensions/as-left.html
+$dokka.location:com.javiersc.either.extensions//asLeft/kotlin.Pair[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#/PointingToDeclaration/either-core/com.javiersc.either.extensions/as-left.html
+$dokka.location:com.javiersc.either.extensions//asRight/TypeParam(bounds=[kotlin.Any?])#/PointingToDeclaration/either-core/com.javiersc.either.extensions/as-right.html
+$dokka.location:com.javiersc.either.extensions//asRight/kotlin.Pair[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#/PointingToDeclaration/either-core/com.javiersc.either.extensions/as-right.html
+$dokka.location:com.javiersc.either.extensions//combine/com.javiersc.either.Either[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#com.javiersc.either.Either[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#kotlin.Function2[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#kotlin.Function2[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/either-core/com.javiersc.either.extensions/combine.html
+$dokka.location:com.javiersc.either.extensions//combine/com.javiersc.either.Either[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#com.javiersc.either.Either[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#kotlin.Function2[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#kotlin.Function2[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/either-core/com.javiersc.either.extensions/combine.html
+$dokka.location:com.javiersc.either.extensions//fold/com.javiersc.either.Either[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),kotlin.Unit]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),kotlin.Unit]/PointingToDeclaration/either-core/com.javiersc.either.extensions/fold.html
+$dokka.location:com.javiersc.either.extensions//map/com.javiersc.either.Either[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/either-core/com.javiersc.either.extensions/map.html
+$dokka.location:com.javiersc.either.extensions//mapLeft/com.javiersc.either.Either[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/either-core/com.javiersc.either.extensions/map-left.html
+$dokka.location:com.javiersc.either.extensions//mapRight/com.javiersc.either.Either[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/either-core/com.javiersc.either.extensions/map-right.html
+$dokka.location:com.javiersc.either////PointingToDeclaration/either-core/com.javiersc.either/index.html
+$dokka.location:com.javiersc.either/Either.Left///PointingToDeclaration/either-core/com.javiersc.either/-either/-left/index.html
+$dokka.location:com.javiersc.either/Either.Left/Left/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/either-core/com.javiersc.either/-either/-left/-left.html
+$dokka.location:com.javiersc.either/Either.Left/left/#/PointingToDeclaration/either-core/com.javiersc.either/-either/-left/left.html
+$dokka.location:com.javiersc.either/Either.Right///PointingToDeclaration/either-core/com.javiersc.either/-either/-right/index.html
+$dokka.location:com.javiersc.either/Either.Right/Right/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/either-core/com.javiersc.either/-either/-right/-right.html
+$dokka.location:com.javiersc.either/Either.Right/right/#/PointingToDeclaration/either-core/com.javiersc.either/-either/-right/right.html
+$dokka.location:com.javiersc.either/Either///PointingToDeclaration/either-core/com.javiersc.either/-either/index.html
+com.javiersc.either
+com.javiersc.either.extensions
+
